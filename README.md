@@ -2,9 +2,11 @@
 
 I did this project as part of a Udemy course and forgot about it until recently. I've realized this is a good project to get started with model deployment, so here we are.
 
+Going back to this beginner project also made me realize I made a lot of mistakes as a beginner, so here is my blog post about it:
+
 # All The Modeling Stuff
 
-As mentioned, I followed Daniel Bourke's Udemy course, so only a small portion of the work is mine (see: one hot encoding and scaling).
+As mentioned, I followed Daniel Bourke's Udemy course, so only a small portion of the work is truely mine (see: one hot encoding and scaling).
 
 # Deployment
 
