@@ -1,12 +1,12 @@
 # end-to-end-bulldozer
 
-I did this project as part of a Udemy course and forgot about it until recently. I've realized this is a good project to get started with model deployment, so here we are.
+This was one my first projects in ML and I forgot about it until recently. I've realized this would be a good project to learn model deployment, so here we are.
 
 Going back to this beginner project also made me realize I made a lot of mistakes as a beginner, so here is my blog post about it:
 
-# All The Modeling Stuff
+# Models and Data
 
-As mentioned, I followed Daniel Bourke's Udemy course, so only a portion of the work is mine (see: one hot encoding and scaling).
+Dataset: https://www.kaggle.com/c/bluebook-for-bulldozers
 
 # Deployment
 
