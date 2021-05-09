@@ -6,7 +6,7 @@ Going back to this beginner project also made me realize I made a lot of mistake
 
 # All The Modeling Stuff
 
-As mentioned, I followed Daniel Bourke's Udemy course, so only a small portion of the work is truely mine (see: one hot encoding and scaling).
+As mentioned, I followed Daniel Bourke's Udemy course, so only a portion of the work is mine (see: one hot encoding and scaling).
 
 # Deployment
 
