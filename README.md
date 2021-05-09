@@ -6,8 +6,13 @@ Going back to this beginner project also made me realize I made a lot of mistake
 
 # Models and Data
 
+I followed a tutorial on Udemy for this project when I first did it, however I tweaked the solution a bit now since I've realized there can be some improvements such as scaling, feature selection and hyperparameter tuning.
+
 Dataset: https://www.kaggle.com/c/bluebook-for-bulldozers
+
+Initial Tutorial: https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-3-structured-data-projects/end-to-end-bluebook-bulldozer-price-regression-video.ipynb
 
 # Deployment
 
-I've used Heroku and Flask to deploy the model and here are the end results.
+
+
