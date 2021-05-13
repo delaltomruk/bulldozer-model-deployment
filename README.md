@@ -14,5 +14,23 @@ Initial Tutorial: https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/se
 
 # Deployment
 
+For deployment, I chose 4 features based on feature importance:
+
+<img width="400" alt="Screen Shot 2021-05-13 at 6 11 21 PM" src="https://user-images.githubusercontent.com/66208179/118194034-608aec80-b451-11eb-8b60-e5023d194a37.png">
+
+I used Flask to host the website on my local machine.
+
+<p float="left">
+  
+<img width="400" alt="Screen Shot 2021-05-13 at 6 16 32 PM" src="https://user-images.githubusercontent.com/66208179/118194454-135b4a80-b452-11eb-9470-ecf9271404da.png">
+
+<img width="400" alt="Screen Shot 2021-05-13 at 6 16 41 PM" src="https://user-images.githubusercontent.com/66208179/118194472-16563b00-b452-11eb-9ecb-75b46880edfa.png">
 
 
+
+</p>
+
+
+# To Do:
+
+- Heroku
