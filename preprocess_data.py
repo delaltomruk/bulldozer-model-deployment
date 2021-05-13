@@ -18,7 +18,12 @@ def preprocess_data(df):
     # categorical
     for label, content in df.items():
         if not pd.api.types.is_numeric_dtype(content):
-            df[label] = pd.Categorical(content).codes + 1   
+            df[label] = pd.Categorical(content).codes + 1 
+            
+    missing_cat_train = []
+    for label, content in df_train.items():
+        if pd.api.types.is_string_dtype(content):
+            missing_cat_train.append(label)
     
     # handling numerical missing values for df_train
     missing_num_train = list(set(df.columns) - set(missing_cat_train))
