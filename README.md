@@ -1,4 +1,4 @@
-# end-to-end-bulldozer
+# bulldozer-model-deployment
 
 This was one my first projects in ML and I forgot about it until recently. I've realized this would be a good project to learn model deployment, so here we are.
 
